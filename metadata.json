@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ubuntu Pools",
+  "description": "A community-prosperity platform tailored for the South African diaspora and local savings circles (Stokvels), emphasizing the philosophy of Ubuntu through automated governance and transparent remittances.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
